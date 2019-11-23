@@ -7,3 +7,4 @@
 - [ ] The return of springs and struts
 - [ ] Where have all the indies gone?
 - [ ] Added new article
+- [ ] Updated in master
