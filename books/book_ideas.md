@@ -10,3 +10,4 @@
 - [ ] Writing tutorials, by tutorials
 - [ ] Added new books
 - [ ] Master code
+- [ ] Util
